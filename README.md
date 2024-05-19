@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rashini Savindya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jprsavindy1&label=Profile%20views&color=0e75b6&style=flat" alt="jprsavindy1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jprsavindy1&label=Profile%20views&color=0e75b6&style=flat" alt="jprsavindy1" /> </p>
+
+| ![jprsavindya1's github stats](https://github-readme-stats.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight) | ![jprsavindya1 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jprsavindya1&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jprsavindya1&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jprsavindya1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
 
