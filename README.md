@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/rashini-jayasekara-2b0a51376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rashinijayasekarajp@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rashinijayasekarajp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/jprsavindya1" target="_blank">
@@ -72,7 +72,7 @@ I am a Software Engineering student who loves turning ideas into high-quality co
   <a href="https://www.linkedin.com/in/rashini-jayasekara-2b0a51376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rashinijayasekarajp@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rashinijayasekarajp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/jprsavindya1" target="_blank">
