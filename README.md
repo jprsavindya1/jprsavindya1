@@ -48,6 +48,15 @@ I am a Software Engineering student who loves turning ideas into high-quality co
 
 ### 📊 GitHub Analytics & Charts
 
+#### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jprsavindya1/jprsavindya1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jprsavindya1/jprsavindya1/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jprsavindya1/jprsavindya1/output/github-snake.svg">
+</picture>
+
+<br/>
+
 #### 📈 Weekly Coding Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jprsavindya1&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Coding Activity Graph" width="100%" />
@@ -85,5 +94,5 @@ I am a Software Engineering student who loves turning ideas into high-quality co
 ---
 
 <p align="center">
-  <sub>Created with and passion by <a href="https://github.com/jprsavindya1">jprsavindya1</a>.</sub>
+  <sub>Created with 🌌 and passion by <a href="https://github.com/jprsavindya1">jprsavindya1</a>.</sub>
 </p>
