@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rashinijayasekarajp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/jprsavindya1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -52,12 +52,33 @@ I am a Software Engineering student who loves turning ideas into high-quality co
 </p>
 
 #### 🍩 Language Breakdown & General Stats
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight&hide_border=true&radius=10" alt="GitHub Stats" width="49%" align="left" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jprsavindya1&layout=donut&theme=tokyonight&hide_border=true&radius=10" alt="Top Languages" width="49%" align="right" />
-</p>
+<br/>
+<table align="center" border="0" cellpadding="0" cellspacing="10" width="100%">
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight&hide_border=true&radius=10" alt="GitHub Stats" width="100%" />
+    </td>
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jprsavindya1&layout=compact&theme=tokyonight&hide_border=true&radius=10" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rashini-jayasekara-2b0a51376" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rashinijayasekarajp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/jprsavindya1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
