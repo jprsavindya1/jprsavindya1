@@ -28,18 +28,18 @@ I am a Software Engineering student who loves turning ideas into high-quality co
 
 ### 📊 GitHub Analytics & Charts
 
-#### 📈 Language Breakdown & General Stats
+#### 📈 Weekly Coding Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight&hide_border=true&radius=10" alt="GitHub Stats" width="49%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprsavindya1&layout=donut&theme=tokyonight&hide_border=true&radius=10" alt="Top Languages" width="49%" align="right" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jprsavindya1&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Coding Activity Graph" width="100%" />
+</p>
+
+#### 🍩 Language Breakdown & General Stats
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight&hide_border=true&radius=10" alt="GitHub Stats" width="49%" align="left" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jprsavindya1&layout=donut&theme=tokyonight&hide_border=true&radius=10" alt="Top Languages" width="49%" align="right" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-#### 🗓️ 3D Contribution Calendar
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=jprsavindya1&theme=tokyonight" alt="3D Contribution Graph" width="95%" />
-</p>
 
 ---
 
