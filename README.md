@@ -1,30 +1,24 @@
 # 🌌 Rashini Savindya
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=34&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Welcome+to+my+universe+✨;I'm+Rashini+Savindya;Software+Engineering+Student+🎓;C%2B%2B+%2F+C%23+%2F+Web+Developer;Let's+build+something+cool!🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Neon Animated Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" height="8px" />
-</p>
-
-## 💫 About Me
-
-I am a Software Engineering undergraduate at **NSBM Green University** who loves designing and building high-performance applications. I enjoy creating sleek user interfaces and writing efficient code.
-
-* 🎓 **Education:** Pursuing BSc (Hons) in Software Engineering @ NSBM
-* 💻 **Primary Focus:** Desktop Application Development & Systems Programming
-* ⚡ **Interests:** UI/UX Design, OOP, Data Structures & Algorithms
-* 🚀 **Open to:** Collabs, open-source projects, and frontend/backend dev opportunities
+> **Software Engineering Undergraduate @ NSBM Green University**  
+> Passionate about building robust software systems, desktop applications, and modern web solutions.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 💫 About Me
 
-<p align="center">
+I am a Software Engineering student who loves turning ideas into high-quality code. I focus on backend development, object-oriented design principles, and creating clean user experiences.
+
+* 🎓 **Education:** Pursuing BSc (Hons) in Software Engineering at NSBM Green University.
+* 💻 **Core Focus:** Desktop Application Development, Data Structures, and OOP.
+* ⚡ **Interests:** Algorithmic problem solving, software architecture, and UI/UX design.
+* 🚀 **Goal:** To build impactful and scalable software solutions.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,git,github,vscode,visualstudio&theme=dark" alt="My Tech Stack" />
   </a>
@@ -32,39 +26,26 @@ I am a Software Engineering undergraduate at **NSBM Green University** who loves
 
 ---
 
-## 📊 Interactive Charts & Analytics
+### 📊 GitHub Analytics & Charts
 
-### 📈 Weekly Coding Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jprsavindya1&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Coding Activity Graph" width="100%" />
-</p>
-
-### 🍩 Language Breakdown & General Stats
+#### 📈 Language Breakdown & General Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight&hide_border=true&radius=10" alt="GitHub Stats" width="49%" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprsavindya1&layout=donut&theme=tokyonight&hide_border=true&radius=10" alt="Top Languages" width="49%" align="right" />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-### 🗓️ 3D Contribution Calendar
+#### 🗓️ 3D Contribution Calendar
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=jprsavindya1&theme=tokyonight" alt="3D Contribution Graph" width="90%" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=jprsavindya1&theme=tokyonight" alt="3D Contribution Graph" width="95%" />
 </p>
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jprsavindya1&theme=tokyonight&hide_border=true&radius=10" alt="Streak Stats" width="90%" />
-</p>
+---
 
-<!-- Neon Animated Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec59.gif" width="100%" height="8px" />
-</p>
+### 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rashini-jayasekara-2b0a51376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -78,16 +59,6 @@ I am a Software Engineering undergraduate at **NSBM Green University** who loves
 
 ---
 
-### 🐍 Contribution Snake Game
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jprsavindya1/jprsavindya1/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jprsavindya1/jprsavindya1/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jprsavindya1/jprsavindya1/output/github-snake.svg" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Created with 🌌 and passion.</sub>
+  <sub>Created with 🌌 and passion by <a href="https://github.com/jprsavindya1">jprsavindya1</a>.</sub>
 </p>
