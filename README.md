@@ -1,12 +1,18 @@
-# Hi there, I'm Rashini Savindya 👋
+# 🌌 Rashini Savindya
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,10&height=220&section=header&text=Rashini%20Savindya&fontSize=65&fontAlignY=35&animation=twinkling" alt="Header Banner" />
+<p align="left">
+  <strong>Software Engineering Undergraduate @ NSBM Green University</strong>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7F&center=true&vCenter=true&width=500&lines=Undergraduate+at+NSBM;C+%2F+C%2B%2B+%2F+C%23+Developer;Passionate+about+Technology" alt="Typing SVG" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/rashini-jayasekara-2b0a51376" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rashinijayasekarajp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/jprsavindya1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -14,44 +20,36 @@
 
 ### 💫 About Me
 
-I am a passionate software engineering undergraduate student at **NSBM Green University**. I love learning new technologies, solving problems, and building impactful software solutions.
+I am a Software Engineering undergraduate at **NSBM Green University**. I focus on building robust software systems, writing clean code, and solving complex problems. I'm highly interested in software development (backend and desktop applications) and modern web technologies.
 
-- 🎓 Currently pursuing my Bachelor's degree in Software Engineering / Computer Science at **NSBM Green University**.
-- 💻 I enjoy programming in **C, C++, and C#**, and exploring web development.
-- 🚀 Always open to collaborating on open-source projects and creative ideas.
-- 📫 Reach me out at: **[rashinijayasekarajp@gmail.com](mailto:rashinijayasekarajp@gmail.com)**
+* 🎓 **Education:** Pursuing BSc (Hons) in Software Engineering at NSBM Green University.
+* 💻 **Core Focus:** Desktop Application Development, Data Structures, and OOP principles.
+* ⚡ **Interests:** Algorithmic problem solving, software architecture, and UI/UX design.
+* 🚀 **Goal:** To build impactful and scalable software solutions while constantly learning new technology stacks.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
+#### 💻 Programming Languages
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
----
-
-### 🌐 Connect with Me
-
+#### 🌐 Web Development
 <p align="left">
-  <a href="mailto:rashinijayasekarajp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### 🔧 Tools & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -59,12 +57,8 @@ I am a passionate software engineering undergraduate student at **NSBM Green Uni
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/jprsavindya1">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jprsavindya1&show_icons=true&theme=tokyonight&border_radius=10" alt="Rashini's Github Stats" width="48%" />
-  </a>
-  <a href="https://github.com/jprsavindya1">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprsavindya1&layout=compact&theme=tokyonight&border_radius=10" alt="Rashini's Top Languages" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jprsavindya1&show_icons=true&theme=transparent&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" alt="Rashini's GitHub Stats" width="48%" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprsavindya1&layout=compact&theme=transparent&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&hide_border=true" alt="Rashini's Top Languages" width="48%" align="right" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/>
@@ -72,5 +66,5 @@ I am a passionate software engineering undergraduate student at **NSBM Green Uni
 ---
 
 <p align="center">
-  🌟 Modified with love by <a href="https://github.com/jprsavindya1">jprsavindya1</a> 🌟
+  <sub>Managed by <a href="https://github.com/jprsavindya1">Rashini Savindya</a>. 🚀</sub>
 </p>
