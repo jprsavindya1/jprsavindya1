@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=3000&pause=1500&color=38bdf8&center=true&vCenter=true&width=500&lines=Rashini+Savindya;Software+Engineer" alt="Typing Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=3000&pause=1500&color=38bdf8&center=true&vCenter=true&width=500&lines=Rashini+Savindya;Intern+@+SLPA;Software+Engineer" alt="Typing Name" />
   </a>
 </p>
 
 <p align="center">
   <strong>Software Engineering Undergraduate @ NSBM Green University</strong><br/>
+  <strong>Intern Software Engineer @ Sri Lanka Ports Authority (SLPA)</strong><br/>
   <sub>Passionate about building robust software systems, desktop applications, and modern web solutions.</sub>
 </p>
 
@@ -28,6 +29,7 @@
 I am a Software Engineering student who loves turning ideas into high-quality code. I focus on backend development, object-oriented design principles, and creating clean user experiences.
 
 * 🎓 **Education:** Pursuing BSc (Hons) in Software Engineering at NSBM Green University.
+* 💼 **Internship:** Currently working as an **Intern Software Engineer** at **Sri Lanka Ports Authority (SLPA)** in the **Information Systems Division**.
 * 💻 **Core Focus:** Desktop Application Development, Data Structures, and OOP.
 * ⚡ **Interests:** Algorithmic problem solving, software architecture, and UI/UX design.
 * 🚀 **Goal:** To build impactful and scalable software solutions.
@@ -83,5 +85,5 @@ I am a Software Engineering student who loves turning ideas into high-quality co
 ---
 
 <p align="center">
-  <sub>Created with 🌌 and passion by <a href="https://github.com/jprsavindya1">jprsavindya1</a>.</sub>
+  <sub>Created with and passion by <a href="https://github.com/jprsavindya1">jprsavindya1</a>.</sub>
 </p>
